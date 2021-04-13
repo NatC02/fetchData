@@ -1,0 +1,22 @@
+{
+  "name": "authenticationjwtnodereact",
+  "version": "1.0.0",
+  "description": "An basic app for user authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NatC02/authenticationJWTNodeReact.git"
+  },
+  "author": "Nat193",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatC02/authenticationJWTNodeReact/issues"
+  },
+  "homepage": "https://github.com/NatC02/authenticationJWTNodeReact#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
